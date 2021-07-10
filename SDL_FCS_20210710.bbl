@@ -1,0 +1,235 @@
+\begin{thebibliography}{10}
+\expandafter\ifx\csname url\endcsname\relax
+  \def\url#1{\texttt{#1}}\fi
+\expandafter\ifx\csname urlprefix\endcsname\relax\def\urlprefix{URL }\fi
+\expandafter\ifx\csname href\endcsname\relax
+  \def\href#1#2{#2} \def\path#1{#1}\fi
+
+\bibitem{Harel85}
+D.~Harel, A.~Pnueli, On the development of reactive systems, in: K.~R. Apt
+  (Ed.), Logics and Models of Concurrent Systems, Springer Berlin Heidelberg,
+  Berlin, Heidelberg, 1985, pp. 477--498.
+
+\bibitem{Benveniste03}
+A.~{Benveniste}, P.~{Caspi}, S.~A. {Edwards}, N.~{Halbwachs}, P.~{Le Guernic},
+  R.~{de Simone}, The synchronous languages 12 years later, Proceedings of the
+  IEEE 91~(1) (2003) 64--83.
+
+\bibitem{Benveniste91}
+A.~Benveniste, P.~L. Guernic, C.~Jacquemot, Synchronous programming with events
+  and relations: the signal language and its semantics, Science of Computer
+  Programming 16~(2) (1991) 103 -- 149.
+
+\bibitem{Halbwachs91}
+N.~{Halbwachs}, P.~{Caspi}, P.~{Raymond}, D.~{Pilaud}, The synchronous data
+  flow programming language lustre, Proceedings of the IEEE 79~(9) (1991)
+  1305--1320.
+
+\bibitem{Berry92}
+G.~Berry, G.~Gonthier, The {Esterel} synchronous programming language: design,
+  semantics, implementation, Science of Computer Programming 19~(2) (1992) 87
+  -- 152.
+
+\bibitem{Espiau90}
+B.~{Espiau}, E.~{Coste-Maniere}, A synchronous approach for control sequencing
+  in robotics application, in: Proceedings of the IEEE International Workshop
+  on Intelligent Motion Control, Vol.~2, 1990, pp. 503--508.
+
+\bibitem{Berry00}
+G.~Berry, A.~Bouali, X.~Fornari, E.~Ledinot, E.~Nassor, R.~{de Simone},
+  Esterel: a formal method applied to avionic software development, Science of
+  Computer Programming 36~(1) (2000) 5--25.
+
+\bibitem{Gamatie04}
+A.~Gamatié, T.~Gautier, L.~Besnard, Modeling of avionics applications and
+  performance evaluation techniques using the synchronous language signal,
+  Electronic Notes in Theoretical Computer Science 88 (2004) 87--103, sLAP
+  2003: Synchronous Languages, Applications and Programming, A Satellite
+  Workshop of ECRST 2003.
+
+\bibitem{Qian15}
+J.~{Qian}, J.~{Liu}, X.~{Chen}, J.~{Sun}, Modeling and verification of zone
+  controller: The scade experience in china's railway systems, in: 2015
+  IEEE/ACM 1st International Workshop on Complex Faults and Failures in Large
+  Software Systems (COUFLESS), 2015, pp. 48--54.
+
+\bibitem{Lee15}
+E.~Lee, The past, present and future of cyber-physical systems: A focus on
+  models, Sensors (Basel, Switzerland) 15 (2015) 4837--4869.
+
+\bibitem{Lohstroh19}
+M.~Lohstroh, E.~A. Lee, Deterministic actors, in: Forum on Specification and
+  Design Languages (FDL),, 2019.
+
+\bibitem{Halbwachs93b}
+N.~Halbwachs, F.~Lagnier, P.~Raymond, Synchronous observers and the
+  verification of reactive systems, in: Proceedings of the Third International
+  Conference on Methodology and Software Technology: Algebraic Methodology and
+  Software Technology, AMAST '93, Springer-Verlag, Berlin, Heidelberg, 1993,
+  pp. 83--96.
+
+\bibitem{Pilaud88}
+D.~Pilaud, N.~Halbwachs, From a synchronous declarative language to a temporal
+  logic dealing with multiform time, in: Proceedings of a Symposium on Formal
+  Techniques in Real-Time and Fault-Tolerant Systems, Springer-Verlag, Berlin,
+  Heidelberg, 1988, pp. 99--110.
+
+\bibitem{Jagadeesan95}
+L.~J. Jagadeesan, C.~Puchol, J.~E. Von~Olnhausen, Safety property verification
+  of esterel programs and applications to telecommunications software, in:
+  P.~Wolper (Ed.), Computer Aided Verification, Springer Berlin Heidelberg,
+  Berlin, Heidelberg, 1995, pp. 127--140.
+
+\bibitem{Andre09}
+C.~Andr\'{e}, F.~Mallet, Specification and verification of time requirements
+  with ccsl and esterel, in: Proceedings of the 2009 ACM SIGPLAN/SIGBED
+  Conference on Languages, Compilers, and Tools for Embedded Systems, LCTES
+  '09, Association for Computing Machinery, New York, NY, USA, 2009, pp.
+  167--176.
+
+\bibitem{Berry85}
+G.~Berry, L.~Cosserat, The esterel synchronous programming language and its
+  mathematical semantics, in: S.~D. Brookes, A.~W. Roscoe, G.~Winskel (Eds.),
+  Seminar on Concurrency, Springer Berlin Heidelberg, Berlin, Heidelberg, 1985,
+  pp. 389--448.
+
+\bibitem{ProgramVerifications09}
+K.~R. Apt, F.~S. de~Boer, E.-R. Olderog, Verification of Sequential and
+  Concurrent Programs., Texts in Computer Science, Springer, 2009.
+
+\bibitem{Pratt76}
+V.~R. Pratt, Semantical considerations on {Floyd-Hoare} logic, in: Annual IEEE
+  Symposium on Foundations of Computer Science (FOCS), IEEE Computer Society,
+  1976, pp. 109--121.
+
+\bibitem{Hoare63}
+C.~A.~R. Hoare, An axiomatic basis for computer programming, Commun. ACM
+  12~(10) (1969) 576--580.
+
+\bibitem{Feldman84}
+Y.~A. Feldman, D.~Harel, A probabilistic dynamic logic, Journal of Computer and
+  System Sciences 28~(2) (1984) 193--215.
+
+\bibitem{Rustan07}
+K.~Rustan, M.~Leino, Verification of Object-Oriented Software. The KeY
+  Approach, Lecture Notes in Computer Science (LNCS), Springer.
+
+\bibitem{Platzer07b}
+A.~Platzer, Differential dynamic logic for verifying parametric hybrid
+  systems., in: International Conference on Theorem Proving with Analytic
+  Tableaux and Related Methods (TABLEAUX), Vol. 4548 of Lecture Notes in
+  Computer Science (LNCS), Springer Berlin Heidelberg, 2007, pp. 216--232.
+
+\bibitem{Platzer07}
+A.~Platzer, A temporal dynamic logic for verifying hybrid system invariants.,
+  in: Logical Foundations of Computer Science (LFCS), Vol. 4514 of Lecture
+  Notes in Computer Science (LNCS), Springer, 2007, pp. 457--471.
+
+\bibitem{Harel00}
+D.~Harel, D.~Kozen, J.~Tiuryn, Dynamic Logic, MIT Press, 2000.
+
+\bibitem{Harel79}
+D.~Harel, First-Order Dynamic Logic, Vol.~68 of Lecture Notes in Computer
+  Science (LNCS), Springer, 1979.
+
+\bibitem{Beckert01}
+B.~Beckert, S.~Schlager, A sequent calculus for first-order dynamic logic with
+  trace modalities, in: R.~Gor{\'e}, A.~Leitsch, T.~Nipkow (Eds.), Automated
+  Reasoning, Springer Berlin Heidelberg, Berlin, Heidelberg, 2001, pp.
+  626--641.
+
+\bibitem{Cook78}
+S.~A. Cook, Soundness and completeness of an axiom system for program
+  verification., SIAM Journal on Computing 7~(1) (1978) 70--90.
+
+\bibitem{Milner83}
+R.~Milner, Calculi for synchrony and asynchrony, Theoretical Computer Science
+  25~(3) (1983) 267--310.
+
+\bibitem{Berry99}
+G.~Berry, The constructive semantics of pure {Esterel} (1999).
+
+\bibitem{Andre03}
+C.~Andr\'e, Semantics of synccharts, Tech. Rep. ISRN I3S/RR--2003--24--FR, I3S
+  Laboratory, Sophia-Antipolis, France (April 2003).
+
+\bibitem{Schneider17}
+K.~Schneider, J.~Brandt, Quartz: A Synchronous Language for Model-Based Design
+  of Reactive Embedded Systems, Springer Netherlands, Dordrecht, 2017, pp.
+  1--30.
+
+\bibitem{Peleg87}
+D.~Peleg, Communication in concurrent dynamic logic., Journal of Computer and
+  System Sciences 35~(1) (1987) 23--58.
+
+\bibitem{Gentzen34}
+G.~Gentzen, Untersuchungen \"{u}ber das logische schlie\ss en, Ph.D. thesis, NA
+  G\"{o}ttingen (1934).
+
+\bibitem{Brzozowski64}
+J.~A. Brzozowski, Derivatives of regular expressions., Journal of the ACM
+  11~(4) (1964) 481--494.
+
+\bibitem{Arden61}
+D.~N. Arden, Delayed-logic and finite-state machines, in: SWCT (FOCS), IEEE
+  Computer Society, 1961, pp. 133--151.
+
+\bibitem{Godel31}
+K.~G\"odel, \"uber formal unentscheidbare s\"{a}tze der principia mathematica
+  und verwandter systeme, Monatshefte f\"ur Mathematik und Physik 38~(1) (1931)
+  173--198.
+
+\bibitem{Bertot04}
+Y.~Bertot, P.~Cast\'eran, Interactive Theorem Proving and Program Development -
+  {Coq'Art}: The Calculus of Inductive Constructions, Texts in Theoretical
+  Computer Science. An EATCS Series, Springer, 2004.
+
+\bibitem{Bourke17}
+T.~Bourke, L.~Brun, P.-E. Dagand, X.~Leroy, M.~Pouzet, L.~Rieg, A formally
+  verified compiler for lustre, in: Proceedings of the 38th ACM SIGPLAN
+  Conference on Programming Language Design and Implementation, PLDI 2017,
+  Association for Computing Machinery, New York, NY, USA, 2017, pp. 586--601.
+
+\bibitem{Berry19}
+G.~Berry, L.~Rieg, Towards coq-verified esterel semantics and compiling (2019).
+\newblock \href {http://arxiv.org/abs/1909.12582} {\path{arXiv:1909.12582}}.
+
+\bibitem{Hagen08}
+G.~Hagen, C.~Tinelli, Scaling up the formal verification of lustre programs
+  with {SMT}-based techniques, in: In FMCAD ’08, 2008, pp. 1--9.
+
+\bibitem{Ngo14}
+V.~C. {Ngo}, J.~{Talpin}, T.~{Gautier}, Precise deadlock detection for
+  polychronous data-flow specifications, in: Proceedings of the 2014 Electronic
+  System Level Synthesis Conference (ESLsyn), 2014, pp. 1--6.
+
+\bibitem{Talpin15}
+J.-P. Talpin, P.~Jouvelot, S.~K. Shukla, Towards refinement types for
+  time-dependent data-flow networks., in: MEMOCODE, IEEE, 2015, pp. 36--41.
+
+\bibitem{Florence19}
+S.~P. Florence, S.-H. You, J.~A. Tov, R.~B. Findler, A calculus for esterel: If
+  can, can. if no can, no can., Proc. ACM Program. Lang. 3~(POPL).
+
+\bibitem{Song21}
+Y.~Song, W.-N. Chin, A synchronous effects logic for temporal verification of
+  pure esterel., in: VMCAI, Vol. 12597 of Lecture Notes in Computer Science
+  (LNCS), Springer, 2021, pp. 417--440.
+
+\bibitem{Gesell12}
+M.~Gesell, K.~Schneider, A hoare calculus for the verification of synchronous
+  languages, in: Proceedings of the Sixth Workshop on Programming Languages
+  Meets Program Verification, PLPV '12, Association for Computing Machinery,
+  New York, NY, USA, 2012, pp. 37--48.
+
+\bibitem{Harel82}
+D.~Harel, D.~Kozen, R.~Parikh, Process logic: Expressiveness, decidability,
+  completeness., Journal of Computer and System Sciences 25~(2) (1982)
+  144--170.
+
+\bibitem{Zhang21}
+Y.~Zhang, H.~Wu, Y.~Chen, F.~Mallet, A clock-based dynamic logic for the
+  verification of ccsl specifications in synchronous systems, Science of
+  Computer Programming 203 (2021) 102591.
+
+\end{thebibliography}

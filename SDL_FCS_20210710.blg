@@ -1,0 +1,31 @@
+This is BibTeX, Version 0.99dThe top-level auxiliary file: SDL_FCS_20210710.aux
+The style file: elsarticle-num.bst
+Database file #1: SDL-arxiv-20210408.bib
+I was expecting a `,' or a `}'---line 611 of file SDL-arxiv-20210408.bib
+ :   
+ :   volume = 4334,
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+A bad cross reference---entry "Pratt76"
+refers to entry "conf/focs/FOCS17", which doesn't exist
+A bad cross reference---entry "Platzer07b"
+refers to entry "conf/tableaux/2007", which doesn't exist
+A bad cross reference---entry "Platzer07"
+refers to entry "conf/lfcs/2007", which doesn't exist
+A bad cross reference---entry "Arden61"
+refers to entry "conf/focs/FOCS2", which doesn't exist
+A bad cross reference---entry "Talpin15"
+refers to entry "conf/memocode/2015", which doesn't exist
+Warning--I didn't find a database entry for "???"
+Warning--I didn't find a database entry for "conf/focs/FOCS17"
+Warning--I didn't find a database entry for "conf/lfcs/2007"
+Warning--I didn't find a database entry for "conf/focs/FOCS2"
+Warning--I didn't find a database entry for "conf/memocode/2015"
+Warning--I didn't find a database entry for "conf/tableaux/2007"
+Name 1 in "Marten Lohstroh, and Edward A. Lee" has a comma at the end for entry Lohstroh19
+while executing---line 1507 of file elsarticle-num.bst
+Warning--empty pages in Lohstroh19
+Warning--empty year in Rustan07
+Warning--can't use both author and editor fields in Schneider17
+Warning--empty chapter and pages in Schneider17
+(There were 7 error messages)
